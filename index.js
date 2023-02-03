@@ -1,10 +1,4 @@
-const axios = require('axios');
+const moment = require('moment');
 
-axios.get('https://avancera.app/cities/')
-  .then(resp => {
 
-    console.log(resp.data.length);
-});
-    
-    
-    'https://avancera.app/cities/'
+console.log(moment().format("YYYY-MM-DD"))
