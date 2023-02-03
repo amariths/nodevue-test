@@ -18,8 +18,5 @@
   "homepage": "https://github.com/amariths/nodevue#readme",
   "dependencies": {
     "moment": "^2.29.4"
-  },
-  "devDependencies": {
-    "@types/marked": "^4.0.8"
   }
 }
