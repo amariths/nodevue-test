@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/amariths/nodevue/issues"
   },
-  "homepage": "https://github.com/amariths/nodevue#readme",
-  "dependencies": {
-    "jimp": "^0.17.9"
-  }
+  "homepage": "https://github.com/amariths/nodevue#readme"
 }
