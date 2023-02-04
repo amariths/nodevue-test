@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/amariths/nodevue#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "jimp": "^0.17.9"
   }
 }

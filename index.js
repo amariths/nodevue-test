@@ -1,4 +1,11 @@
-const moment = require('moment');
+var Jimp = require('jimp');
 
+async function resize() {
 
-console.log(moment().format("YYYY-MM-DD"))
+    const image = await Jimp.read('image.jpeg');
+   
+    image.resize(300, 200)
+    .write('image-modified.jpeg');
+  }
+  resize()
+  console.log();
